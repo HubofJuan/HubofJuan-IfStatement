@@ -3,6 +3,8 @@ import org.junit.Assert;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
+import javafx.css.converter.BooleanConverter;
+
 public class IfStatementTest {
     static Lab is;
     @BeforeClass
